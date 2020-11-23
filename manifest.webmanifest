@@ -1,0 +1,27 @@
+{
+  "name": "GinkoBus Progressive Web App",
+  "short_name": "GinkoBus",
+  "description": "Progressive Web App des lignes de bus Ginko de Besancon.",
+  "icons": [
+    {
+      "src": "icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+	{
+      "src": "icons/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+  	},
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.js",
+  "display": "fullscreen",
+  "theme_color": "#000",
+  "background_color": "#000"
+}
